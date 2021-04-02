@@ -1,4 +1,4 @@
-package by.epamtc.other;
+package by.epamtc.realization.first.other;
 
 public class Singleton {
     private static Singleton programLogger;

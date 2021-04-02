@@ -1,6 +1,6 @@
-package by.epamtc.runner;
+package by.epamtc.realization.first.runner;
 
-import by.epamtc.other.Singleton;
+import by.epamtc.realization.first.other.Singleton;
 
 public class Main {
     public static void main(String[] args) {
